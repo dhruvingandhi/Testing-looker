@@ -3,6 +3,7 @@
   layout: newspaper
 
   preferred_viewer: dashboards-next
+
   description: ''
   refresh: 1 day
   preferred_slug: 0xQ5BWiLCwSp88kHeTdRWr
